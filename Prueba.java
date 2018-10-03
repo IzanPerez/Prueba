@@ -3,5 +3,6 @@ public class Prueba{
 		System.out.println("Ethan Perez");
 		System.out.println("Leon");
 		System.out.println("Crucero");
+		System.out.println("12/11/1997");
 }
 }
